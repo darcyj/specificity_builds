@@ -1,4 +1,4 @@
-# specificity_OSX_builds
+# specificity_builds
 tar builds for specificity R package
 
 ## versions
