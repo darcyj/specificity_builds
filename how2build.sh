@@ -3,11 +3,11 @@
 
 # build package and rename for clarity with date
   R CMD build specificity
-  mv specificity*.tar.gz specificity_20200608_build.tar.gz
+  mv specificity*.tar.gz specificity_20200825_LINUX54_intelx64_build.tar.gz
 
 # build BINARY package and rename
-  R CMD INSTALL --build specificity_20200608_build.tar.gz
-  mv specificity*.tgz specificity_20200608_binary.tgz
+  R CMD INSTALL --build specificity_20200825_LINUX54_intelx64_build.tar.gz
+  # manually rename to match naming convention
 
 # INSTALL WITH:
-  R CMD INSTALL specificity_20200608_build.tar.gz
+  R CMD INSTALL specificity_blahblah_binary.tar.gz
