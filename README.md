@@ -1,5 +1,5 @@
 # specificity_builds
-tar builds for specificity R package
+tar builds for specificity R package: https://github.com/darcyj/specificity
 
 ## versions
 * "20200608_MACOS1015_intelx64": Built with a 2015 Mac Mini running Mac OS 10.15 (catalina).
