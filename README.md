@@ -1,19 +1,15 @@
-# specificity_builds
+q# specificity_builds
 tar builds for specificity R package: https://github.com/darcyj/specificity
 
 ## versions
-* "20200608_MACOS1015_intelx64": Built with a 2015 Mac Mini running Mac OS 10.15 (catalina).
-* "20200825_LINUX54_intelx64": Built on an HPC using XeonE5-2643 v2 CPUs running Ubuntu 18.04.4, kernel version 5.4.0-42-generic.
+specificity_0.1.2.9000_R_x86_64-pc-linux-gnu.tar.gz (built on kernel 5.4.0-53-generic)
 
-Note that these files will be removed once `specificity` has actual version numbers, and will be replaced with files that include version number.
-
-## build vs binary
-* "build" - just the R package zipped up
-* "binary" - package has been compiled
+## versions soon to come:
+* same as above but for OS X
 
 ## How to install
-1. download the binary file that matches your OS
+1. download the file that matches your OS
 2. open up a terminal
-3. `R CMD INSTALL file_you_downloaded_binary.tar.gz`
+3. `R CMD INSTALL specificity_blahblahblah.tar.gz`
 
 
