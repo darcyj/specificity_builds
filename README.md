@@ -1,4 +1,4 @@
-q# specificity_builds
+# specificity_builds
 tar builds for specificity R package: https://github.com/darcyj/specificity
 
 ## versions
