@@ -9,6 +9,6 @@ Binary builds for specificity R package: https://github.com/darcyj/specificity
 ## How to build
 1. See `how2build.sh`.
 
-
-## Note about availability
-If the latest version isn't available for your system, you need to build it, or ask someone else to build it for you. 
+## Notes about availability
+* If the latest version isn't available for your system, you need to build it, or ask someone else to build it for you.
+* Only most recent builds are kept in main dir, old builds are in old_builds.
