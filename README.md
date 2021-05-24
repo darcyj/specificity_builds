@@ -7,7 +7,8 @@ Binary builds for specificity R package: https://github.com/darcyj/specificity
 3. `R CMD INSTALL specificity_blahblahblah.tgz`
 
 ## How to build
-1. See `how2build.sh`.
+Do this only if you want to build a binary to contribute to this repo. 
+1. See `how2build.sh`
 
 ## Notes about availability
 * If the latest version isn't available for your system, you need to build it, or ask someone else to build it for you.
