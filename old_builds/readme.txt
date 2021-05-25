@@ -1,3 +1,3 @@
-these are old builds from before specificity had version numbers.
+these are old builds. More recent old builds are in folders titled with system info, just like in the main dir (../). 
 
-moved to their own folder so their names aren't confusing.
+Older old builds (per version numbers) are in the folder "oldest builds"
